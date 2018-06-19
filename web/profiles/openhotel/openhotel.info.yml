@@ -3,55 +3,63 @@ type: profile
 description: 'Open hotel is a Drupal Distribution for hotel sites.'
 core: 8.x
 dependencies:
-  - node
-  - history
-  - block
-  - breakpoint
-  - ckeditor
-  - color
-  - config
-  - comment
-  - contextual
-  - contact
-  - menu_link_content
-  - datetime
-  - block_content
-  - quickedit
-  - editor
-  - help
-  - image
-  - menu_ui
-  - options
-  - path
-  - page_cache
-  - dynamic_page_cache
-  - telephone
-  - taxonomy
-  - dblog
-  - search
-  - shortcut
-  - toolbar
-  - field_ui
-  - file
-  - rdf
-  - views
-  - views_ui
-  - tour
-  - automated_cron
-  - ctools
   - admin_toolbar
+  - automated_cron
+  - block
+  - block_content
+  - breakpoint
+  - captcha
+  - ckeditor
+  - coffee
+  - color
+  - comment
+  - config
   - config_update
+  - contact
+  - contextual
+  - ctools
+  - datetime
+  - dblog
+  - devel
+  - dynamic_page_cache
+  - editor
   - features
   - features_ui
-  - token
-  - pathauto
-  - typed_data
-  - rules
-  - metatag
+  - field_group
+  - field_ui
+  - file
   - google_analytics
-  - views_slideshow
-  - webform
+  - help
+  - history
+  - image
+  - inline_entity_form
+  - menu_link_content
+  - menu_ui
+  - metatag
   - module_filter
+  - node
+  - options
+  - page_cache
+  - paragraphs
+  - path
+  - pathauto
+  - quickedit
+  - rdf
+  - rules
+  - search
+  - search_api
+  - shortcut
+  - simple_sitemap
+  - taxonomy
+  - telephone
+  - token
+  - toolbar
+  - tour
+  - typed_data
+  - views
+  - views_slideshow
+  - views_ui
+  - webform
 themes:
   - bartik
   - seven
